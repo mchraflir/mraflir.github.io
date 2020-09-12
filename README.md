@@ -1,2 +1,3 @@
 # mraflir.github.io
-portofolio pertama, harap maklum.
+portofolio pertama, masih banyak kekurangan,
+harap maklum.
