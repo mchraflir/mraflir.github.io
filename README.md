@@ -1,4 +1,3 @@
 # mraflir.github.io
 
-portofolio pertama, masih banyak kekurangan,
-akan terus dikembangkan.
+my first portfolio :-D
